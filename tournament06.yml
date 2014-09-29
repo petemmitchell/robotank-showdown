@@ -1,0 +1,426 @@
+---
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 37.0
+  elapsed_ticks: 8929
+  seed: 1411689202
+  robots:
+    Killa:
+      damage_given: 63.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 63.0
+      kills: 1
+  match: 0
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 73.0
+  elapsed_ticks: 1505
+  seed: 1411689204
+  robots:
+    Killa:
+      damage_given: 27.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 27.0
+      kills: 1
+  match: 1
+  round: 1
+- winner_is:
+  - Killa
+  winner_energy:
+  - 55.0
+  elapsed_ticks: 2769
+  seed: 1411689205
+  robots:
+    Killa:
+      damage_given: 108.0
+      damage_taken: 45.0
+      kills: 1
+    Killbot:
+      damage_given: 45.0
+      damage_taken: 108.0
+      kills: 0
+  match: 2
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 10.0
+  elapsed_ticks: 3402
+  seed: 1411689206
+  robots:
+    Killa:
+      damage_given: 90.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 90.0
+      kills: 1
+  match: 3
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 64.0
+  elapsed_ticks: 5503
+  seed: 1411689208
+  robots:
+    Killa:
+      damage_given: 36.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 36.0
+      kills: 1
+  match: 4
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 82.0
+  elapsed_ticks: 1759
+  seed: 1411689209
+  robots:
+    Killa:
+      damage_given: 18.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 18.0
+      kills: 1
+  match: 5
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 82.0
+  elapsed_ticks: 2763
+  seed: 1411689210
+  robots:
+    Killa:
+      damage_given: 18.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 18.0
+      kills: 1
+  match: 6
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 55.0
+  elapsed_ticks: 2869
+  seed: 1411689212
+  robots:
+    Killa:
+      damage_given: 45.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 45.0
+      kills: 1
+  match: 7
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 10.0
+  elapsed_ticks: 4968
+  seed: 1411689213
+  robots:
+    Killa:
+      damage_given: 90.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 90.0
+      kills: 1
+  match: 8
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 55.0
+  elapsed_ticks: 3544
+  seed: 1411689214
+  robots:
+    Killa:
+      damage_given: 45.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 45.0
+      kills: 1
+  match: 9
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 82.0
+  elapsed_ticks: 779
+  seed: 1411689216
+  robots:
+    Killa:
+      damage_given: 18.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 18.0
+      kills: 1
+  match: 10
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 82.0
+  elapsed_ticks: 1107
+  seed: 1411689217
+  robots:
+    Killa:
+      damage_given: 18.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 18.0
+      kills: 1
+  match: 11
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 46.0
+  elapsed_ticks: 4324
+  seed: 1411689218
+  robots:
+    Killa:
+      damage_given: 54.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 54.0
+      kills: 1
+  match: 12
+  round: 1
+- winner_is:
+  - Killa
+  winner_energy:
+  - 55.0
+  elapsed_ticks: 3000
+  seed: 1411689219
+  robots:
+    Killa:
+      damage_given: 108.0
+      damage_taken: 45.0
+      kills: 1
+    Killbot:
+      damage_given: 45.0
+      damage_taken: 108.0
+      kills: 0
+  match: 13
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 73.0
+  elapsed_ticks: 1994
+  seed: 1411689221
+  robots:
+    Killa:
+      damage_given: 27.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 27.0
+      kills: 1
+  match: 14
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 37.0
+  elapsed_ticks: 3936
+  seed: 1411689222
+  robots:
+    Killa:
+      damage_given: 63.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 63.0
+      kills: 1
+  match: 15
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 46.0
+  elapsed_ticks: 4993
+  seed: 1411689223
+  robots:
+    Killa:
+      damage_given: 54.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 54.0
+      kills: 1
+  match: 16
+  round: 1
+- winner_is:
+  - Killa
+  winner_energy:
+  - 10.0
+  elapsed_ticks: 4312
+  seed: 1411689225
+  robots:
+    Killa:
+      damage_given: 108.0
+      damage_taken: 90.0
+      kills: 1
+    Killbot:
+      damage_given: 90.0
+      damage_taken: 108.0
+      kills: 0
+  match: 17
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 55.0
+  elapsed_ticks: 817
+  seed: 1411689226
+  robots:
+    Killa:
+      damage_given: 45.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 45.0
+      kills: 1
+  match: 18
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 73.0
+  elapsed_ticks: 953
+  seed: 1411689227
+  robots:
+    Killa:
+      damage_given: 27.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 27.0
+      kills: 1
+  match: 19
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 46.0
+  elapsed_ticks: 4678
+  seed: 1411689228
+  robots:
+    Killa:
+      damage_given: 54.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 54.0
+      kills: 1
+  match: 20
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 46.0
+  elapsed_ticks: 3709
+  seed: 1411689230
+  robots:
+    Killa:
+      damage_given: 54.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 54.0
+      kills: 1
+  match: 21
+  round: 1
+- winner_is:
+  - Killa
+  winner_energy:
+  - 10.0
+  elapsed_ticks: 3918
+  seed: 1411689231
+  robots:
+    Killa:
+      damage_given: 108.0
+      damage_taken: 90.0
+      kills: 1
+    Killbot:
+      damage_given: 90.0
+      damage_taken: 108.0
+      kills: 0
+  match: 22
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 73.0
+  elapsed_ticks: 1574
+  seed: 1411689232
+  robots:
+    Killa:
+      damage_given: 27.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 27.0
+      kills: 1
+  match: 23
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 64.0
+  elapsed_ticks: 891
+  seed: 1411689234
+  robots:
+    Killa:
+      damage_given: 36.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 36.0
+      kills: 1
+  match: 24
+  round: 1

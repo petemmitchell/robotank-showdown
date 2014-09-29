@@ -3,7 +3,7 @@ require 'rrobots'
 class Dbot
   include Robot
 
-  def tick events
+  def tick(events)
     turn_radar 1
     turn_gun 25 unless events['robot_scanned'].any?
     accelerate 6

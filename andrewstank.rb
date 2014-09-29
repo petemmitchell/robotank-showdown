@@ -3,7 +3,7 @@ require 'rrobots'
 class Andrewstank
   include Robot
 
-  def tick events
+  def tick(_events)
     speed = 1
     accelerate(1)
     turn_gun(2)

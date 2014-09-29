@@ -1,0 +1,35 @@
+---
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 82.0
+  elapsed_ticks: 2911
+  seed: 1411673062
+  robots:
+    Killa:
+      damage_given: 18.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 18.0
+      kills: 1
+  match: 0
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 64.0
+  elapsed_ticks: 3630
+  seed: 1411673063
+  robots:
+    Killa:
+      damage_given: 36.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 36.0
+      kills: 1
+  match: 1
+  round: 1

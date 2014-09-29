@@ -8,7 +8,7 @@ class Spinduck
     super
   end
 
-  def tick events
+  def tick(events)
     turn 10
     accelerate(4)
     # if we find in radar, store radar heading

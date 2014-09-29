@@ -1,0 +1,426 @@
+---
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 37.0
+  elapsed_ticks: 3844
+  seed: 1411663672
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 63.0
+      kills: 1
+    Killbot:
+      damage_given: 63.0
+      damage_taken: 108.0
+      kills: 0
+  match: 0
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 37.0
+  elapsed_ticks: 1875
+  seed: 1411663673
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 63.0
+      kills: 1
+    Killbot:
+      damage_given: 63.0
+      damage_taken: 108.0
+      kills: 0
+  match: 1
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 28.0
+  elapsed_ticks: 1484
+  seed: 1411663675
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 72.0
+      kills: 1
+    Killbot:
+      damage_given: 72.0
+      damage_taken: 108.0
+      kills: 0
+  match: 2
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 73.0
+  elapsed_ticks: 2346
+  seed: 1411663676
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 27.0
+      kills: 1
+    Killbot:
+      damage_given: 27.0
+      damage_taken: 108.0
+      kills: 0
+  match: 3
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 64.0
+  elapsed_ticks: 2254
+  seed: 1411663677
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 36.0
+      kills: 1
+    Killbot:
+      damage_given: 36.0
+      damage_taken: 108.0
+      kills: 0
+  match: 4
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 64.0
+  elapsed_ticks: 2930
+  seed: 1411663678
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 36.0
+      kills: 1
+    Killbot:
+      damage_given: 36.0
+      damage_taken: 108.0
+      kills: 0
+  match: 5
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 10.0
+  elapsed_ticks: 3916
+  seed: 1411663680
+  robots:
+    Bunny:
+      damage_given: 90.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 90.0
+      kills: 1
+  match: 6
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 37.0
+  elapsed_ticks: 1392
+  seed: 1411663681
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 63.0
+      kills: 1
+    Killbot:
+      damage_given: 63.0
+      damage_taken: 108.0
+      kills: 0
+  match: 7
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 10.0
+  elapsed_ticks: 882
+  seed: 1411663682
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 90.0
+      kills: 1
+    Killbot:
+      damage_given: 90.0
+      damage_taken: 108.0
+      kills: 0
+  match: 8
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 55.0
+  elapsed_ticks: 2195
+  seed: 1411663683
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 45.0
+      kills: 1
+    Killbot:
+      damage_given: 45.0
+      damage_taken: 108.0
+      kills: 0
+  match: 9
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 37.0
+  elapsed_ticks: 2066
+  seed: 1411663684
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 63.0
+      kills: 1
+    Killbot:
+      damage_given: 63.0
+      damage_taken: 108.0
+      kills: 0
+  match: 10
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 28.0
+  elapsed_ticks: 2076
+  seed: 1411663686
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 72.0
+      kills: 1
+    Killbot:
+      damage_given: 72.0
+      damage_taken: 108.0
+      kills: 0
+  match: 11
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 46.0
+  elapsed_ticks: 2820
+  seed: 1411663687
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 54.0
+      kills: 1
+    Killbot:
+      damage_given: 54.0
+      damage_taken: 108.0
+      kills: 0
+  match: 12
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 28.0
+  elapsed_ticks: 3503
+  seed: 1411663688
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 72.0
+      kills: 1
+    Killbot:
+      damage_given: 72.0
+      damage_taken: 108.0
+      kills: 0
+  match: 13
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 46.0
+  elapsed_ticks: 478
+  seed: 1411663690
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 54.0
+      kills: 1
+    Killbot:
+      damage_given: 54.0
+      damage_taken: 108.0
+      kills: 0
+  match: 14
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 19.0
+  elapsed_ticks: 1131
+  seed: 1411663691
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 81.0
+      kills: 1
+    Killbot:
+      damage_given: 81.0
+      damage_taken: 108.0
+      kills: 0
+  match: 15
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 55.0
+  elapsed_ticks: 564
+  seed: 1411663692
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 45.0
+      kills: 1
+    Killbot:
+      damage_given: 45.0
+      damage_taken: 108.0
+      kills: 0
+  match: 16
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 1.0
+  elapsed_ticks: 737
+  seed: 1411663693
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 99.0
+      kills: 1
+    Killbot:
+      damage_given: 99.0
+      damage_taken: 108.0
+      kills: 0
+  match: 17
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 64.0
+  elapsed_ticks: 2489
+  seed: 1411663694
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 36.0
+      kills: 1
+    Killbot:
+      damage_given: 36.0
+      damage_taken: 108.0
+      kills: 0
+  match: 18
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 28.0
+  elapsed_ticks: 2152
+  seed: 1411663695
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 72.0
+      kills: 1
+    Killbot:
+      damage_given: 72.0
+      damage_taken: 108.0
+      kills: 0
+  match: 19
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 46.0
+  elapsed_ticks: 2121
+  seed: 1411663697
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 54.0
+      kills: 1
+    Killbot:
+      damage_given: 54.0
+      damage_taken: 108.0
+      kills: 0
+  match: 20
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 19.0
+  elapsed_ticks: 2919
+  seed: 1411663698
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 81.0
+      kills: 1
+    Killbot:
+      damage_given: 81.0
+      damage_taken: 108.0
+      kills: 0
+  match: 21
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 28.0
+  elapsed_ticks: 885
+  seed: 1411663699
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 72.0
+      kills: 1
+    Killbot:
+      damage_given: 72.0
+      damage_taken: 108.0
+      kills: 0
+  match: 22
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 91.0
+  elapsed_ticks: 1335
+  seed: 1411663700
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 9.0
+      kills: 1
+    Killbot:
+      damage_given: 9.0
+      damage_taken: 108.0
+      kills: 0
+  match: 23
+  round: 1
+- winner_is:
+  - Bunny
+  winner_energy:
+  - 55.0
+  elapsed_ticks: 1448
+  seed: 1411663701
+  robots:
+    Bunny:
+      damage_given: 108.0
+      damage_taken: 45.0
+      kills: 1
+    Killbot:
+      damage_given: 45.0
+      damage_taken: 108.0
+      kills: 0
+  match: 24
+  round: 1

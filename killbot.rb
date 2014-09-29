@@ -3,8 +3,7 @@ require 'rrobots'
 class Killbot
   include Robot
 
-  def tick events
-
+  def tick(_events)
     if energy <= 10
       say("I'm meeeeelllllllting!")
     else

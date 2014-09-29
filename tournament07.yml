@@ -1,0 +1,435 @@
+---
+- winner_is:
+  - Honeypie
+  winner_energy:
+  - 73.0
+  elapsed_ticks: 9075
+  seed: 1411663558
+  robots:
+    Killa:
+      damage_given: 27.0
+      damage_taken: 100.2
+      kills: 0
+    Honeypie:
+      damage_given: 100.2
+      damage_taken: 27.0
+      kills: 1
+  match: 0
+  round: 1
+- winner_is:
+  - Honeypie
+  winner_energy:
+  - 37.0
+  elapsed_ticks: 7181
+  seed: 1411663560
+  robots:
+    Killa:
+      damage_given: 63.0
+      damage_taken: 100.2
+      kills: 0
+    Honeypie:
+      damage_given: 100.2
+      damage_taken: 63.0
+      kills: 1
+  match: 1
+  round: 1
+- winner_is:
+  - Killa
+  - Honeypie
+  winner_energy:
+  - 70.6
+  - 46.0
+  elapsed_ticks: 10000
+  seed: 1411663562
+  robots:
+    Killa:
+      damage_given: 54.0
+      damage_taken: 29.4
+      kills: 0
+    Honeypie:
+      damage_given: 29.4
+      damage_taken: 54.0
+      kills: 0
+  match: 2
+  round: 1
+  timedout: 1
+- winner_is:
+  - Killa
+  winner_energy:
+  - 37.9
+  elapsed_ticks: 5507
+  seed: 1411663564
+  robots:
+    Killa:
+      damage_given: 108.0
+      damage_taken: 62.1
+      kills: 1
+    Honeypie:
+      damage_given: 62.1
+      damage_taken: 108.0
+      kills: 0
+  match: 3
+  round: 1
+- winner_is:
+  - Honeypie
+  winner_energy:
+  - 64.0
+  elapsed_ticks: 7854
+  seed: 1411663566
+  robots:
+    Killa:
+      damage_given: 36.0
+      damage_taken: 100.2
+      kills: 0
+    Honeypie:
+      damage_given: 100.2
+      damage_taken: 36.0
+      kills: 1
+  match: 4
+  round: 1
+- winner_is:
+  - Honeypie
+  winner_energy:
+  - 55.0
+  elapsed_ticks: 7718
+  seed: 1411663568
+  robots:
+    Killa:
+      damage_given: 45.0
+      damage_taken: 100.2
+      kills: 0
+    Honeypie:
+      damage_given: 100.2
+      damage_taken: 45.0
+      kills: 1
+  match: 5
+  round: 1
+- winner_is:
+  - Honeypie
+  winner_energy:
+  - 73.0
+  elapsed_ticks: 9622
+  seed: 1411663570
+  robots:
+    Killa:
+      damage_given: 27.0
+      damage_taken: 100.2
+      kills: 0
+    Honeypie:
+      damage_given: 100.2
+      damage_taken: 27.0
+      kills: 1
+  match: 6
+  round: 1
+- winner_is:
+  - Killa
+  winner_energy:
+  - 93.1
+  elapsed_ticks: 1732
+  seed: 1411663572
+  robots:
+    Killa:
+      damage_given: 108.0
+      damage_taken: 6.9
+      kills: 1
+    Honeypie:
+      damage_given: 6.9
+      damage_taken: 108.0
+      kills: 0
+  match: 7
+  round: 1
+- winner_is:
+  - Honeypie
+  winner_energy:
+  - 82.0
+  elapsed_ticks: 4930
+  seed: 1411663573
+  robots:
+    Killa:
+      damage_given: 18.0
+      damage_taken: 100.2
+      kills: 0
+    Honeypie:
+      damage_given: 100.2
+      damage_taken: 18.0
+      kills: 1
+  match: 8
+  round: 1
+- winner_is:
+  - Honeypie
+  winner_energy:
+  - 64.0
+  elapsed_ticks: 8219
+  seed: 1411663575
+  robots:
+    Killa:
+      damage_given: 36.0
+      damage_taken: 100.2
+      kills: 0
+    Honeypie:
+      damage_given: 100.2
+      damage_taken: 36.0
+      kills: 1
+  match: 9
+  round: 1
+- winner_is:
+  - Killa
+  - Honeypie
+  winner_energy:
+  - 100.0
+  - 64.0
+  elapsed_ticks: 10000
+  seed: 1411663577
+  robots:
+    Killa:
+      damage_given: 36.0
+      damage_taken: 0.0
+      kills: 0
+    Honeypie:
+      damage_given: 0.0
+      damage_taken: 36.0
+      kills: 0
+  match: 10
+  round: 1
+  timedout: 1
+- winner_is:
+  - Killa
+  winner_energy:
+  - 91.3
+  elapsed_ticks: 2050
+  seed: 1411663579
+  robots:
+    Killa:
+      damage_given: 108.0
+      damage_taken: 8.7
+      kills: 1
+    Honeypie:
+      damage_given: 8.7
+      damage_taken: 108.0
+      kills: 0
+  match: 11
+  round: 1
+- winner_is:
+  - Honeypie
+  winner_energy:
+  - 100.0
+  elapsed_ticks: 6144
+  seed: 1411663581
+  robots:
+    Killa:
+      damage_given: 0.0
+      damage_taken: 100.2
+      kills: 0
+    Honeypie:
+      damage_given: 100.2
+      damage_taken: 0.0
+      kills: 1
+  match: 12
+  round: 1
+- winner_is:
+  - Honeypie
+  winner_energy:
+  - 100.0
+  elapsed_ticks: 6447
+  seed: 1411663583
+  robots:
+    Killa:
+      damage_given: 0.0
+      damage_taken: 100.2
+      kills: 0
+    Honeypie:
+      damage_given: 100.2
+      damage_taken: 0.0
+      kills: 1
+  match: 13
+  round: 1
+- winner_is:
+  - Killa
+  winner_energy:
+  - 65.5
+  elapsed_ticks: 4474
+  seed: 1411663584
+  robots:
+    Killa:
+      damage_given: 108.0
+      damage_taken: 34.5
+      kills: 1
+    Honeypie:
+      damage_given: 34.5
+      damage_taken: 108.0
+      kills: 0
+  match: 14
+  round: 1
+- winner_is:
+  - Honeypie
+  winner_energy:
+  - 64.0
+  elapsed_ticks: 8100
+  seed: 1411663586
+  robots:
+    Killa:
+      damage_given: 36.0
+      damage_taken: 100.2
+      kills: 0
+    Honeypie:
+      damage_given: 100.2
+      damage_taken: 36.0
+      kills: 1
+  match: 15
+  round: 1
+- winner_is:
+  - Honeypie
+  winner_energy:
+  - 64.0
+  elapsed_ticks: 6077
+  seed: 1411663588
+  robots:
+    Killa:
+      damage_given: 36.0
+      damage_taken: 100.2
+      kills: 0
+    Honeypie:
+      damage_given: 100.2
+      damage_taken: 36.0
+      kills: 1
+  match: 16
+  round: 1
+- winner_is:
+  - Honeypie
+  winner_energy:
+  - 82.0
+  elapsed_ticks: 8359
+  seed: 1411663590
+  robots:
+    Killa:
+      damage_given: 18.0
+      damage_taken: 100.2
+      kills: 0
+    Honeypie:
+      damage_given: 100.2
+      damage_taken: 18.0
+      kills: 1
+  match: 17
+  round: 1
+- winner_is:
+  - Killa
+  winner_energy:
+  - 82.9
+  elapsed_ticks: 2144
+  seed: 1411663592
+  robots:
+    Killa:
+      damage_given: 108.0
+      damage_taken: 17.1
+      kills: 1
+    Honeypie:
+      damage_given: 17.1
+      damage_taken: 108.0
+      kills: 0
+  match: 18
+  round: 1
+- winner_is:
+  - Honeypie
+  winner_energy:
+  - 91.0
+  elapsed_ticks: 8266
+  seed: 1411663593
+  robots:
+    Killa:
+      damage_given: 9.0
+      damage_taken: 100.2
+      kills: 0
+    Honeypie:
+      damage_given: 100.2
+      damage_taken: 9.0
+      kills: 1
+  match: 19
+  round: 1
+- winner_is:
+  - Honeypie
+  winner_energy:
+  - 91.0
+  elapsed_ticks: 6075
+  seed: 1411663596
+  robots:
+    Killa:
+      damage_given: 9.0
+      damage_taken: 100.2
+      kills: 0
+    Honeypie:
+      damage_given: 100.2
+      damage_taken: 9.0
+      kills: 1
+  match: 20
+  round: 1
+- winner_is:
+  - Honeypie
+  winner_energy:
+  - 91.0
+  elapsed_ticks: 7055
+  seed: 1411663597
+  robots:
+    Killa:
+      damage_given: 9.0
+      damage_taken: 100.2
+      kills: 0
+    Honeypie:
+      damage_given: 100.2
+      damage_taken: 9.0
+      kills: 1
+  match: 21
+  round: 1
+- winner_is:
+  - Killa
+  - Honeypie
+  winner_energy:
+  - 76.3
+  - 19.0
+  elapsed_ticks: 10000
+  seed: 1411663599
+  robots:
+    Killa:
+      damage_given: 81.0
+      damage_taken: 23.7
+      kills: 0
+    Honeypie:
+      damage_given: 23.7
+      damage_taken: 81.0
+      kills: 0
+  match: 22
+  round: 1
+  timedout: 1
+- winner_is:
+  - Honeypie
+  winner_energy:
+  - 73.0
+  elapsed_ticks: 8136
+  seed: 1411663602
+  robots:
+    Killa:
+      damage_given: 27.0
+      damage_taken: 100.2
+      kills: 0
+    Honeypie:
+      damage_given: 100.2
+      damage_taken: 27.0
+      kills: 1
+  match: 23
+  round: 1
+- winner_is:
+  - Honeypie
+  winner_energy:
+  - 73.0
+  elapsed_ticks: 8808
+  seed: 1411663604
+  robots:
+    Killa:
+      damage_given: 27.0
+      damage_taken: 100.2
+      kills: 0
+    Honeypie:
+      damage_given: 100.2
+      damage_taken: 27.0
+      kills: 1
+  match: 24
+  round: 1

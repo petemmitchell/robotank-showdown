@@ -3,7 +3,7 @@ require 'rrobots'
 class Goose
   include Robot
 
-  def tick events
+  def tick(_events)
     fire 1
     go = accelerate 5
     go

@@ -3,7 +3,7 @@ require 'rrobots'
 class Bunny
   include Robot
 
-  def tick events
+  def tick(events)
     # battlefield_height = 100
     turn_radar 1 if time == 0
     turn_gun 10

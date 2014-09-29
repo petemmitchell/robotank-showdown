@@ -1,0 +1,426 @@
+---
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 31.6
+  elapsed_ticks: 5380
+  seed: 1411663738
+  robots:
+    Honeypie:
+      damage_given: 68.4
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 68.4
+      kills: 1
+  match: 0
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 66.1
+  elapsed_ticks: 3289
+  seed: 1411663739
+  robots:
+    Honeypie:
+      damage_given: 33.9
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 33.9
+      kills: 1
+  match: 1
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 72.7
+  elapsed_ticks: 2906
+  seed: 1411663741
+  robots:
+    Honeypie:
+      damage_given: 27.3
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 27.3
+      kills: 1
+  match: 2
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 22.0
+  elapsed_ticks: 5906
+  seed: 1411663742
+  robots:
+    Honeypie:
+      damage_given: 78.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 78.0
+      kills: 1
+  match: 3
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 15.1
+  elapsed_ticks: 5254
+  seed: 1411663744
+  robots:
+    Honeypie:
+      damage_given: 84.9
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 84.9
+      kills: 1
+  match: 4
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 74.8
+  elapsed_ticks: 2969
+  seed: 1411663746
+  robots:
+    Honeypie:
+      damage_given: 25.2
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 25.2
+      kills: 1
+  match: 5
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 41.5
+  elapsed_ticks: 4201
+  seed: 1411663747
+  robots:
+    Honeypie:
+      damage_given: 58.5
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 58.5
+      kills: 1
+  match: 6
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 64.6
+  elapsed_ticks: 3286
+  seed: 1411663749
+  robots:
+    Honeypie:
+      damage_given: 35.4
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 35.4
+      kills: 1
+  match: 7
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 80.5
+  elapsed_ticks: 1710
+  seed: 1411663750
+  robots:
+    Honeypie:
+      damage_given: 19.5
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 19.5
+      kills: 1
+  match: 8
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 88.6
+  elapsed_ticks: 1183
+  seed: 1411663752
+  robots:
+    Honeypie:
+      damage_given: 11.4
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 11.4
+      kills: 1
+  match: 9
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 65.2
+  elapsed_ticks: 2960
+  seed: 1411663753
+  robots:
+    Honeypie:
+      damage_given: 34.8
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 34.8
+      kills: 1
+  match: 10
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 94.6
+  elapsed_ticks: 2220
+  seed: 1411663754
+  robots:
+    Honeypie:
+      damage_given: 5.4
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 5.4
+      kills: 1
+  match: 11
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 27.4
+  elapsed_ticks: 4792
+  seed: 1411663756
+  robots:
+    Honeypie:
+      damage_given: 72.6
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 72.6
+      kills: 1
+  match: 12
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 81.7
+  elapsed_ticks: 3569
+  seed: 1411663757
+  robots:
+    Honeypie:
+      damage_given: 18.3
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 18.3
+      kills: 1
+  match: 13
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 87.7
+  elapsed_ticks: 1535
+  seed: 1411663759
+  robots:
+    Honeypie:
+      damage_given: 12.3
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 12.3
+      kills: 1
+  match: 14
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 82.6
+  elapsed_ticks: 1776
+  seed: 1411663760
+  robots:
+    Honeypie:
+      damage_given: 17.4
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 17.4
+      kills: 1
+  match: 15
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 22.9
+  elapsed_ticks: 4696
+  seed: 1411663761
+  robots:
+    Honeypie:
+      damage_given: 77.1
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 77.1
+      kills: 1
+  match: 16
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 41.5
+  elapsed_ticks: 4435
+  seed: 1411663763
+  robots:
+    Honeypie:
+      damage_given: 58.5
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 58.5
+      kills: 1
+  match: 17
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 82.0
+  elapsed_ticks: 2158
+  seed: 1411663765
+  robots:
+    Honeypie:
+      damage_given: 18.0
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 18.0
+      kills: 1
+  match: 18
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 16.3
+  elapsed_ticks: 6413
+  seed: 1411663766
+  robots:
+    Honeypie:
+      damage_given: 83.7
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 83.7
+      kills: 1
+  match: 19
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 44.2
+  elapsed_ticks: 3822
+  seed: 1411663768
+  robots:
+    Honeypie:
+      damage_given: 55.8
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 55.8
+      kills: 1
+  match: 20
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 34.6
+  elapsed_ticks: 3755
+  seed: 1411663769
+  robots:
+    Honeypie:
+      damage_given: 65.4
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 65.4
+      kills: 1
+  match: 21
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 74.5
+  elapsed_ticks: 2408
+  seed: 1411663771
+  robots:
+    Honeypie:
+      damage_given: 25.5
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 25.5
+      kills: 1
+  match: 22
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 16.9
+  elapsed_ticks: 5552
+  seed: 1411663772
+  robots:
+    Honeypie:
+      damage_given: 83.1
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 83.1
+      kills: 1
+  match: 23
+  round: 1
+- winner_is:
+  - Killbot
+  winner_energy:
+  - 87.7
+  elapsed_ticks: 2243
+  seed: 1411663774
+  robots:
+    Honeypie:
+      damage_given: 12.3
+      damage_taken: 108.0
+      kills: 0
+    Killbot:
+      damage_given: 108.0
+      damage_taken: 12.3
+      kills: 1
+  match: 24
+  round: 1
